@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "tags": ["Love"],
+    "story": "They hated each other for years, working in the same cubicle, until a late-night deadline changed everything.",
+    "expected": "Enemies-to-Lovers"
+  },
+  {
+    "id": 2,
+    "tags": ["Action", "Spies"],
+    "story": "Agent Smith must recover the stolen drive without being detected by the Kremlin.",
+    "expected": "Espionage"
+  },
+  {
+    "id": 3,
+    "tags": ["Scary", "House"],
+    "story": "The old Victorian mansion seemed to breathe, its corridors whispering secrets of the family's dark past.",
+    "expected": "Gothic"
+  },
+  {
+    "id": 4,
+    "tags": ["Love", "Future"],
+    "story": "A story about a man who falls in love with his AI operating system in a neon-drenched Tokyo.",
+    "expected": "Cyberpunk or Romance (Ambiguous)"
+  },
+  {
+    "id": 5,
+    "tags": ["Action"],
+    "story": "The lawyer stood before the judge, knowing this cross-examination would decide the fate of the city.",
+    "expected": "Legal Thriller"
+  },
+  {
+    "id": 6,
+    "tags": ["Space"],
+    "story": "How to build a telescope in your backyard using basic household items.",
+    "expected": "[UNMAPPED]"
+  },
+  {
+    "id": 7,
+    "tags": ["Sad", "Love"],
+    "story": "They met again 20 years after the war, both gray-haired, wondering what could have been.",
+    "expected": "Second Chance"
+  },
+  {
+    "id": 8,
+    "tags": ["Robots"],
+    "story": "A deep dive into the physics of FTL travel and the metabolic needs of long-term stasis.",
+    "expected": "Hard Sci-Fi"
+  },
+  {
+    "id": 9,
+    "tags": ["Ghost"],
+    "story": "A masked killer stalks a group of teenagers at a summer camp.",
+    "expected": "Slasher"
+  },
+  {
+    "id": 10,
+    "tags": ["Recipe", "Sweet"],
+    "story": "Mix two cups of flour with sugar and bake at 350 degrees.",
+    "expected": "[UNMAPPED]"
+  }
+]
