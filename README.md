@@ -33,6 +33,11 @@ The classification process is broken down into two main stages:
 *   `taxonomy.json`: A JSON file defining the hierarchical genre taxonomy the system classifies against.
 *   `test_cases.json`: Contains a set of 10 test cases with stories, tags, and expected outcomes, used for validating the system.
 
+
+## Live Demo
+The working application can be accessed here:
+https://pratilipiassignmentgit-2025.streamlit.app/
+
 ## Setup and Usage
 
 ### Prerequisites
@@ -82,4 +87,5 @@ The system classifies stories into the following structure defined in `taxonomy.
     "Horror": ["Psychological Horror", "Gothic", "Slasher"]
   }
 }
+
 
