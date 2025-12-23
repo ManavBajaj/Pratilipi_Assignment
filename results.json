@@ -13,7 +13,7 @@
       "scifi_type": "none",
       "setting_era": "present",
       "technology_level": "modern",
-      "location_type": "other",
+      "location_type": "domestic",
       "conflict_nature": "romantic",
       "tone": "romantic"
     },
@@ -38,8 +38,8 @@
       "scifi_type": "none",
       "setting_era": "present",
       "technology_level": "modern",
-      "location_type": "other",
-      "conflict_nature": "none",
+      "location_type": "urban",
+      "conflict_nature": "physical_violence",
       "tone": "tense"
     },
     "decision": {
@@ -62,9 +62,9 @@
       "horror_type": "gothic",
       "scifi_type": "none",
       "setting_era": "past",
-      "technology_level": "modern",
+      "technology_level": "basic",
       "location_type": "mansion",
-      "conflict_nature": "none",
+      "conflict_nature": "psychological",
       "tone": "scary"
     },
     "decision": {
@@ -81,16 +81,16 @@
     ],
     "story": "A story about a man who falls in love with his AI operating system in a neon-drenched Tokyo.",
     "signals": {
-      "primary_theme": "romance",
+      "primary_theme": "scifi",
       "relationship_dynamic": "none",
       "thriller_type": "none",
       "horror_type": "none",
       "scifi_type": "cyberpunk",
       "setting_era": "future",
-      "technology_level": "advanced",
+      "technology_level": "futuristic",
       "location_type": "urban",
       "conflict_nature": "romantic",
-      "tone": "instructional"
+      "tone": "romantic"
     },
     "decision": {
       "subgenre": "Cyberpunk",
@@ -112,7 +112,7 @@
       "scifi_type": "none",
       "setting_era": "present",
       "technology_level": "modern",
-      "location_type": "other",
+      "location_type": "courtroom",
       "conflict_nature": "legal",
       "tone": "tense"
     },
@@ -133,10 +133,10 @@
       "relationship_dynamic": "none",
       "thriller_type": "none",
       "horror_type": "none",
-      "scifi_type": "none",
+      "scifi_type": "space_opera",
       "setting_era": "present",
       "technology_level": "basic",
-      "location_type": "other",
+      "location_type": "domestic",
       "conflict_nature": "none",
       "tone": "instructional"
     },
@@ -159,8 +159,8 @@
       "thriller_type": "none",
       "horror_type": "none",
       "scifi_type": "none",
-      "setting_era": "future",
-      "technology_level": "advanced",
+      "setting_era": "past",
+      "technology_level": "basic",
       "location_type": "other",
       "conflict_nature": "romantic",
       "tone": "melancholic"
@@ -183,11 +183,11 @@
       "thriller_type": "none",
       "horror_type": "none",
       "scifi_type": "hard_scifi",
-      "setting_era": "present",
+      "setting_era": "future",
       "technology_level": "futuristic",
-      "location_type": "other",
+      "location_type": "space",
       "conflict_nature": "none",
-      "tone": "instructional"
+      "tone": "technical|instructional"
     },
     "decision": {
       "subgenre": "Hard Sci-Fi",
@@ -208,10 +208,10 @@
       "horror_type": "slasher",
       "scifi_type": "none",
       "setting_era": "present",
-      "technology_level": "modern",
+      "technology_level": "basic",
       "location_type": "other",
       "conflict_nature": "physical_violence",
-      "tone": "instructional"
+      "tone": "scary"
     },
     "decision": {
       "subgenre": "Slasher",
@@ -234,7 +234,7 @@
       "scifi_type": "none",
       "setting_era": "present",
       "technology_level": "basic",
-      "location_type": "other",
+      "location_type": "domestic",
       "conflict_nature": "none",
       "tone": "instructional"
     },
